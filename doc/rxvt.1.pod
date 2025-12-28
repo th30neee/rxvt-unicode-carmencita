@@ -1,4 +1,4 @@
-=head1 NAME
+=head1 Todd
 
 rxvt-unicode (ouR XVT, unicode) - (a VT102 emulator for the X window system)
 
